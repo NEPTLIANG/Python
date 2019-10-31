@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b916529c-b469-47df-9eda-9d4effefe8ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Homework7.1/.idea/Homework7.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework7.1/Homework7.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework7.2/.idea/Homework7.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework7.2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework7.2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework7.2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework7.2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework7.2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework7.2/Homework7.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework7.3/.idea/Homework7.3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework7.3/Homework7.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework7.4/.idea/Homework7.4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework7.4/Homework7.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework7.5/.idea/Homework7.5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework7.5/Homework7.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework7.6/.idea/Homework7.6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework7.6/Homework7.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework8.1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework8.1/.idea/Homework8.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework8.1/Homework8.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework8.2/.idea/Homework8.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework8.2/Homework8.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Homework8.3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework8.3.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1SyFnyqN1hTnNqfM1bKEM96CjPD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Homework8.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Homework8.3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework8.3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Homework8.3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b916529c-b469-47df-9eda-9d4effefe8ca" name="Default Changelist" comment="" />
+      <created>1572528099440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572528099440</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Homework8.3.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
