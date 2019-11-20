@@ -1,25 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8a715aa-9c3d-46bf-9681-013649a70d5f" name="Default Changelist" comment="" />
+    <list default="true" id="a8a715aa-9c3d-46bf-9681-013649a70d5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Experiment1.5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment1.5/.idea/Experiment1.5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment1.5/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment1.5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment1.5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment1.5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment1.5/Experiment1.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment1.6/.idea/Experiment1.6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment1.6/Experiment1.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment1.7/.idea/Experiment1.7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment1.7/Experiment1.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment1.8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment1.8/.idea/Experiment1.8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment1.8/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment1.8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment1.8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment1.8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment1.8/Experiment1.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment2.2/.idea/Experiment2.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment2.2/Experiment2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment2.3/.idea/Experiment2.3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment2.3/Experiment2.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment2.4/.idea/Experiment2.4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment2.4/Experiment2.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment2.5/.idea/Experiment2.5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment2.5/Experiment2.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment2.7/.idea/Experiment2.7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment2.7/Experiment2.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment3.3.2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment3.3.3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment3.3.3/.idea/Experiment3.3.3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment3.3.3/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment3.3.3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment3.3.3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment3.3.3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment3.3.3/Experiment3.3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment3.3.4/.idea/Experiment3.3.4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment3.3.4/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment3.3.4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment3.3.4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment3.3.4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment3.3.4/Experiment3.3.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment3.3.5/.idea/Experiment3.3.5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment3.3.5/Experiment3.3.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment3.3.6/.idea/Experiment3.3.6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment3.3.6/Experiment3.3.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment4.3.1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment4.3.2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment4.3.2/.idea/Experiment4.3.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment4.3.2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment4.3.2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment4.3.2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment4.3.2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment4.3.2/Experiment4.3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment4.3.3/.idea/Experiment4.3.3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment4.3.3/Experiment4.4.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment4.3.4/.idea/Experiment4.4.4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework2.6/.idea/Homework2.6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework2.6/Homework2.6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment3.3.1.2/.idea/Experiment3.3.1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Experiment3.3.1.2/.idea/Experiment3.3.1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment3.3.1.2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Experiment3.3.1.2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment3.3.1.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Experiment3.3.1.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Experiment3.3.1.2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Experiment3.3.1.2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment3.3.2/.idea/Experiment3.3.2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Experiment3.3.2/.idea/Experiment3.3.2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment3.3.2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Experiment3.3.2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment3.3.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Experiment3.3.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment4.3.1/.idea/Experiment4.3.1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Experiment4.3.1/.idea/Experiment4.3.1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment4.3.1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Experiment4.3.1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment4.3.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Experiment4.3.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experiment4.3.1/Experiment4.3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Experiment4.3.1/Experiment4.3.1.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Experiment3.3.1.2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,30 +89,15 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Experiment3.3.1.2.py" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="710" />
-    <option name="y" value="-6" />
-    <option name="width" value="735" />
-    <option name="height" value="871" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane" />
-      <pane id="Course" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1TmAedIc2ZdGohi9qh3kIrHVX5l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Experiment3.3.1.2" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -96,34 +142,25 @@
   <component name="SvnConfiguration">
     <configuration />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="710" y="-6" width="735" height="871" extended-state="0" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964131" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32985657" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8a715aa-9c3d-46bf-9681-013649a70d5f" name="Default Changelist" comment="" />
+      <created>1574054993349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574054993349</updated>
+    </task>
+    <servers />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Experiment3.3.1.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
