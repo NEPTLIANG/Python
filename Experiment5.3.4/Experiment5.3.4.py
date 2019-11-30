@@ -1,5 +1,5 @@
 #!/bin/python
-# 实验5内容3(3)——猜数字游戏
+# 实验5内容3(4)——猜数字游戏续
 import random
 
 guess = -1
