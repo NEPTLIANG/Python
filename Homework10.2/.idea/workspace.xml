@@ -2,9 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e11167a4-6b13-4943-b43c-3534b649f88e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Experiment4.3.1/.idea/Experiment4.3.1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Experiment4.3.1/.idea/Experiment4.3.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment6.3.1/.idea/Experiment6.3.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment6.3.1/Experiment6.3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment6.3.2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment6.3.2/.idea/Experiment6.3.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment6.3.2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment6.3.2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment6.3.2/Experiment6.3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment6.3.3/.idea/Experiment6.3.3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment6.3.3/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment6.3.3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment6.3.3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment6.3.3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment6.3.3/Experiment6.3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment6.3.4/.idea/Experiment6.3.4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment6.3.4/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment6.3.4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment6.3.4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment6.3.4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment6.3.4/Experiment6.3.4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Experiment4.3.1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Experiment4.3.1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Experiment4.3.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Experiment4.3.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +45,8 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Experiment6.3.4" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
