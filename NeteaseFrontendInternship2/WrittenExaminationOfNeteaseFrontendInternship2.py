@@ -1,3 +1,4 @@
+# 网易前端实习笔试第2题，Wrong Answer
 n = eval(input())
 wc = input().split(" ")
 tc = input().split(" ")
